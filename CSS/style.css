@@ -17,4 +17,10 @@ body {
 .padding {
     padding-top: 10px;
     padding-bottom: 30px;
+    padding-left: auto;
+    padding-right: auto;
+}
+
+.parceiros {
+    background-color: cadetblue;
 }
