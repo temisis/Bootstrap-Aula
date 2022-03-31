@@ -24,3 +24,11 @@ body {
 .parceiros {
     background-color: cadetblue;
 }
+
+
+
+.bg-footer {
+    background-color: rgb(37, 47, 48);
+    color: burlywood;
+    line-height: 2.5;
+}
